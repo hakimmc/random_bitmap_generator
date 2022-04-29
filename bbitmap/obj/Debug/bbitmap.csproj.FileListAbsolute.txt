@@ -1,0 +1,8 @@
+C:\Users\Mahmud Can\Documents\SharpDevelop Projects\bbitmap\bbitmap\obj\Debug\bbitmap.csprojResolveAssemblyReference.cache
+C:\Users\Mahmud Can\Documents\SharpDevelop Projects\bbitmap\bbitmap\obj\Debug\bbitmap.MainForm.resources
+C:\Users\Mahmud Can\Documents\SharpDevelop Projects\bbitmap\bbitmap\obj\Debug\bbitmap.csproj.GenerateResource.Cache
+C:\Users\Mahmud Can\Documents\SharpDevelop Projects\bbitmap\bbitmap\bin\Debug\bbitmap.exe.config
+C:\Users\Mahmud Can\Documents\SharpDevelop Projects\bbitmap\bbitmap\bin\Debug\bbitmap.exe
+C:\Users\Mahmud Can\Documents\SharpDevelop Projects\bbitmap\bbitmap\bin\Debug\bbitmap.pdb
+C:\Users\Mahmud Can\Documents\SharpDevelop Projects\bbitmap\bbitmap\obj\Debug\bbitmap.exe
+C:\Users\Mahmud Can\Documents\SharpDevelop Projects\bbitmap\bbitmap\obj\Debug\bbitmap.pdb
